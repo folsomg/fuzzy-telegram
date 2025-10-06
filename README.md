@@ -1,6 +1,6 @@
 # fuzzy-telegram
 
-A fuzzy telegram project
+A fuzzy telegram project // updated
 
 ## Installation
 
