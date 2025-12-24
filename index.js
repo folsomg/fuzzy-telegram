@@ -3,7 +3,7 @@ console.log('Welcome to fuzzy-telegram');
 
 // Initialize application
 function init() {
-    console.log('Application initialized');
+    console.log('Application initialized'); // updated
 }
  // updated
 init();
